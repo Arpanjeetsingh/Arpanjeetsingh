@@ -91,10 +91,6 @@ export default arpanjeet;
 
 <br>
 
-<img src="https://img.shields.io/github/last-commit/Arpanjeetsingh/POD_RC_AUTO_OCR?style=for-the-badge&logo=git&label=LAST%20PUSH&color=8be9fd&labelColor=1a1b27" alt="Last Commit"/>
-
-<br>
-
 <img src="https://img.shields.io/badge/MODE-BUILDING-ff79c6?style=for-the-badge&labelColor=1a1b27" alt="Mode"/>
 <img src="https://img.shields.io/badge/STATUS-OUTRUNNING-50fa7b?style=for-the-badge&labelColor=1a1b27" alt="Status"/>
 
@@ -220,7 +216,6 @@ export default arpanjeet;
 <div align="center">
 <a href="https://github.com/Arpanjeetsingh/POD_RC_AUTO_OCR"><img src="https://img.shields.io/badge/View_Repository-POD__RC__AUTO__OCR-bd93f9?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" alt="View Repo"/></a>
 <img src="https://img.shields.io/github/stars/Arpanjeetsingh/POD_RC_AUTO_OCR?style=for-the-badge&logo=github&label=STARS&color=ff79c6&labelColor=1a1b27" alt="Stars"/>
-<img src="https://img.shields.io/github/last-commit/Arpanjeetsingh/POD_RC_AUTO_OCR?style=for-the-badge&logo=git&label=UPDATED&color=50fa7b&labelColor=1a1b27" alt="Last Commit"/>
 </div>
 
 </td>
@@ -253,7 +248,6 @@ export default arpanjeet;
 <div align="center">
 <a href="https://github.com/Arpanjeetsingh/UniLoadBoard"><img src="https://img.shields.io/badge/View_Repository-UniLoadBoard-bd93f9?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" alt="View Repo"/></a>
 <img src="https://img.shields.io/github/stars/Arpanjeetsingh/UniLoadBoard?style=for-the-badge&logo=github&label=STARS&color=ff79c6&labelColor=1a1b27" alt="Stars"/>
-<img src="https://img.shields.io/github/last-commit/Arpanjeetsingh/UniLoadBoard?style=for-the-badge&logo=git&label=UPDATED&color=50fa7b&labelColor=1a1b27" alt="Last Commit"/>
 </div>
 
 </td>
