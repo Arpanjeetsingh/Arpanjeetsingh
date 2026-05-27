@@ -73,10 +73,35 @@ export default arpanjeet;
 
 <table>
 <tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=Arpanjeetsingh&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117&title_color=bd93f9&icon_color=ff79c6&text_color=f8f8f2&ring_color=bd93f9&include_all_commits=true&count_private=true&custom_title=Arpanjeet's%20GitHub%20Stats&cache_seconds=86400&v=3" alt="GitHub Stats" width="100%"/>
+<td width="50%" valign="top">
+
+<div align="center">
+
+<h3>Arpanjeet's GitHub Stats</h3>
+
+<br>
+
+<img src="https://img.shields.io/github/followers/Arpanjeetsingh?style=for-the-badge&logo=github&label=FOLLOWERS&color=bd93f9&labelColor=1a1b27" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/Arpanjeetsingh?style=for-the-badge&logo=github&label=STARS&color=ff79c6&labelColor=1a1b27&affiliations=OWNER" alt="Stars"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/REPOS-20%2B-50fa7b?style=for-the-badge&logo=github&labelColor=1a1b27" alt="Repos"/>
+<img src="https://img.shields.io/badge/TOP_LANG-Python-f1fa8c?style=for-the-badge&logo=python&logoColor=f1fa8c&labelColor=1a1b27" alt="Top Lang"/>
+
+<br>
+
+<img src="https://img.shields.io/github/last-commit/Arpanjeetsingh/POD_RC_AUTO_OCR?style=for-the-badge&logo=git&label=LAST%20PUSH&color=8be9fd&labelColor=1a1b27" alt="Last Commit"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/MODE-BUILDING-ff79c6?style=for-the-badge&labelColor=1a1b27" alt="Mode"/>
+<img src="https://img.shields.io/badge/STATUS-OUTRUNNING-50fa7b?style=for-the-badge&labelColor=1a1b27" alt="Status"/>
+
+</div>
+
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Arpanjeetsingh&theme=dracula&hide_border=true&background=0d1117&ring=bd93f9&fire=ff79c6&currStreakLabel=50fa7b&sideLabels=f8f8f2&dates=6272a4" alt="GitHub Streak" width="100%"/>
 </td>
 </tr>
@@ -193,7 +218,9 @@ export default arpanjeet;
 - **Confidence-scored matching** — pairs BOLs to Rate Confirmations on a 0–100 additive scale (exact load number = auto-match, 70+ = confident), producing an Excel report with hyperlinks back to source files
 
 <div align="center">
-<a href="https://github.com/Arpanjeetsingh/POD_RC_AUTO_OCR"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Arpanjeetsingh&repo=POD_RC_AUTO_OCR&theme=dracula&hide_border=true&bg_color=0d1117&title_color=bd93f9&icon_color=ff79c6&cache_seconds=86400&v=3" alt="POD_RC_AUTO_OCR"/></a>
+<a href="https://github.com/Arpanjeetsingh/POD_RC_AUTO_OCR"><img src="https://img.shields.io/badge/View_Repository-POD__RC__AUTO__OCR-bd93f9?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" alt="View Repo"/></a>
+<img src="https://img.shields.io/github/stars/Arpanjeetsingh/POD_RC_AUTO_OCR?style=for-the-badge&logo=github&label=STARS&color=ff79c6&labelColor=1a1b27" alt="Stars"/>
+<img src="https://img.shields.io/github/last-commit/Arpanjeetsingh/POD_RC_AUTO_OCR?style=for-the-badge&logo=git&label=UPDATED&color=50fa7b&labelColor=1a1b27" alt="Last Commit"/>
 </div>
 
 </td>
@@ -224,7 +251,9 @@ export default arpanjeet;
 - **Adaptive UI** — surfaces broker contact cards for brokered loads and shipper details for direct freight, so dispatchers see exactly what they need per row
 
 <div align="center">
-<a href="https://github.com/Arpanjeetsingh/UniLoadBoard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Arpanjeetsingh&repo=UniLoadBoard&theme=dracula&hide_border=true&bg_color=0d1117&title_color=bd93f9&icon_color=ff79c6&cache_seconds=86400&v=3" alt="UniLoadBoard"/></a>
+<a href="https://github.com/Arpanjeetsingh/UniLoadBoard"><img src="https://img.shields.io/badge/View_Repository-UniLoadBoard-bd93f9?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" alt="View Repo"/></a>
+<img src="https://img.shields.io/github/stars/Arpanjeetsingh/UniLoadBoard?style=for-the-badge&logo=github&label=STARS&color=ff79c6&labelColor=1a1b27" alt="Stars"/>
+<img src="https://img.shields.io/github/last-commit/Arpanjeetsingh/UniLoadBoard?style=for-the-badge&logo=git&label=UPDATED&color=50fa7b&labelColor=1a1b27" alt="Last Commit"/>
 </div>
 
 </td>
