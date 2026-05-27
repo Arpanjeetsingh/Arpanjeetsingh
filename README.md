@@ -11,8 +11,7 @@
 <a href="https://github.com/Arpanjeetsingh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="https://www.linkedin.com/in/arpanjeet-s-96895226b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://medium.com/@arpan.sdev"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
-<a href="mailto:arpanjeet135@gmail.com"><img src="https://img.shields.io/badge/Email-ff79c6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<img src="https://komarev.com/ghpvc/?username=Arpanjeetsingh&style=for-the-badge&color=50fa7b&label=VISITORS" alt="Profile Views"/>
+<a href="mailto:Arpan.sdev@gmail.com"><img src="https://img.shields.io/badge/Email-ff79c6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 <br>
@@ -61,14 +60,21 @@ export default arpanjeet;
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Arpanjeetsingh&theme=dracula&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="Trophies" width="100%"/>
+<!-- MILESTONES (shields.io — reliable, no third-party hosting) -->
+<p>
+<img src="https://img.shields.io/badge/Building-Multi--Agent_Systems-bd93f9?style=for-the-badge&labelColor=1a1b27" alt="Building"/>
+<img src="https://img.shields.io/badge/Status-Catching_Up-ff79c6?style=for-the-badge&labelColor=1a1b27" alt="Status"/>
+<img src="https://img.shields.io/badge/Mode-Outrun_the_AI_Race-50fa7b?style=for-the-badge&labelColor=1a1b27" alt="Mode"/>
+<img src="https://img.shields.io/badge/Year-Junior-f1fa8c?style=for-the-badge&labelColor=1a1b27" alt="Year"/>
+<img src="https://img.shields.io/badge/Since-2022-8be9fd?style=for-the-badge&labelColor=1a1b27" alt="Since"/>
+</p>
 
 <br>
 
 <table>
 <tr>
 <td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=Arpanjeetsingh&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117&title_color=bd93f9&icon_color=ff79c6&text_color=f8f8f2&ring_color=bd93f9&include_all_commits=true&count_private=true&custom_title=Arpanjeet's%20GitHub%20Stats" alt="GitHub Stats" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Arpanjeetsingh&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117&title_color=bd93f9&icon_color=ff79c6&text_color=f8f8f2&ring_color=bd93f9&include_all_commits=true&count_private=true&custom_title=Arpanjeet's%20GitHub%20Stats&cache_seconds=86400&v=3" alt="GitHub Stats" width="100%"/>
 </td>
 <td width="50%">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Arpanjeetsingh&theme=dracula&hide_border=true&background=0d1117&ring=bd93f9&fire=ff79c6&currStreakLabel=50fa7b&sideLabels=f8f8f2&dates=6272a4" alt="GitHub Streak" width="100%"/>
@@ -91,7 +97,14 @@ export default arpanjeet;
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arpanjeetsingh&layout=donut-vertical&theme=dracula&hide_border=true&bg_color=0d1117&title_color=bd93f9&text_color=f8f8f2&langs_count=8" alt="Top Languages" width="320"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arpanjeetsingh&layout=donut-vertical&theme=dracula&hide_border=true&bg_color=0d1117&title_color=bd93f9&text_color=f8f8f2&langs_count=8&cache_seconds=86400&v=3" alt="Top Languages" width="320"/>
+
+<br>
+
+<!-- Fallback language row — always visible even if Top Languages above fails to load -->
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,typescript,go,javascript,cpp,c,bash&theme=dark" alt="Languages"/>
+</p>
 
 </div>
 
@@ -132,9 +145,8 @@ export default arpanjeet;
 
 <h4>Low-Level & Systems</h4>
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,rust,linux,bash&theme=dark" alt="Systems"/>
+<img src="https://skillicons.dev/icons?i=cpp,linux&theme=dark" alt="Systems"/>
 <img src="https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logoColor=white" alt="Assembly"/>
-<img src="https://img.shields.io/badge/OS_Internals-1a1b27?style=for-the-badge&logoColor=white" alt="OS Internals"/>
 </p>
 
 <h4>Data & Infrastructure</h4>
@@ -158,60 +170,61 @@ export default arpanjeet;
 
 ## Featured Projects
 
-<!-- TODO: Replace placeholders below with your actual projects.
-     Pattern per project:
-       - Update <repo-name> in three places (heading link, "More Projects" link, and the pin image URL)
-       - Edit the tagline (the > blockquote)
-       - Edit the 3-4 bullet highlights
-       - Swap the tech badges to match the stack
--->
-
+<!-- PROJECT 1: POD_RC_AUTO_OCR -->
 <table>
 <tr>
 <td>
 
-<h3><a href="https://github.com/Arpanjeetsingh">Project One</a> — Tagline goes here</h3>
+<h3><a href="https://github.com/Arpanjeetsingh/POD_RC_AUTO_OCR">POD_RC_AUTO_OCR</a> — Freight Doc Matcher</h3>
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Tesseract_OCR-000000?style=flat-square&logo=tesseract&logoColor=white"/>
+<img src="https://img.shields.io/badge/pdfplumber-2C2C2C?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyMuPDF-1f425f?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Anthropic_Claude-D4A27F?style=flat-square&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/openpyxl-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
 </p>
 
-> **Short context — what it does, what's interesting about it.**
+> **Automates matching and organizing Bill of Lading and Rate Confirmation PDFs from freight brokers into clean folders and a single Excel spreadsheet.**
 
-- Bullet one — the *what* and the *why it's hard*
-- Bullet two — the *how* (architecture, key trick, scale number)
-- Bullet three — the *outcome* (metric, result, learning)
+- **Multi-format PDF ingestion** — handles native text PDFs, scanned docs, and phone-camera photos via an intelligent source classifier that routes each file to the right OCR path
+- **Broker-agnostic field extraction** — regex pipelines + Claude Haiku vision fallback identify load numbers, PO#s, dates, and locations across **13+ freight broker formats**
+- **Confidence-scored matching** — pairs BOLs to Rate Confirmations on a 0–100 additive scale (exact load number = auto-match, 70+ = confident), producing an Excel report with hyperlinks back to source files
 
 <div align="center">
-<a href="https://github.com/Arpanjeetsingh"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Arpanjeetsingh&repo=REPO_NAME&theme=dracula&hide_border=true&bg_color=0d1117&title_color=bd93f9&icon_color=ff79c6" alt="Project One"/></a>
+<a href="https://github.com/Arpanjeetsingh/POD_RC_AUTO_OCR"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Arpanjeetsingh&repo=POD_RC_AUTO_OCR&theme=dracula&hide_border=true&bg_color=0d1117&title_color=bd93f9&icon_color=ff79c6&cache_seconds=86400&v=3" alt="POD_RC_AUTO_OCR"/></a>
 </div>
 
 </td>
 </tr>
 </table>
 
+<!-- PROJECT 2: UniLoadBoard -->
 <table>
 <tr>
 <td>
 
-<h3><a href="https://github.com/Arpanjeetsingh">Project Two</a> — Tagline goes here</h3>
+<h3><a href="https://github.com/Arpanjeetsingh/UniLoadBoard">UniLoadBoard</a> — Unified Freight Load Aggregator</h3>
 
 <p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/>
-<img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white"/>
 </p>
 
-> **Short context — what it does, what's interesting about it.**
+> **One interface, three load boards — DAT, Truckstop, and Amazon Relay aggregated into a single searchable feed with normalized pricing and broker contact info.**
 
-- Bullet one
-- Bullet two
-- Bullet three
+- **Parallel aggregation layer** — fans out simultaneous queries to multiple freight boards and merges results into a unified, sortable view
+- **Adapter-pattern architecture** — each load board source is a swappable adapter, so adding a fourth or fifth provider is a drop-in, not a rewrite
+- **Adaptive UI** — surfaces broker contact cards for brokered loads and shipper details for direct freight, so dispatchers see exactly what they need per row
 
 <div align="center">
-<a href="https://github.com/Arpanjeetsingh"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Arpanjeetsingh&repo=REPO_NAME&theme=dracula&hide_border=true&bg_color=0d1117&title_color=bd93f9&icon_color=ff79c6" alt="Project Two"/></a>
+<a href="https://github.com/Arpanjeetsingh/UniLoadBoard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Arpanjeetsingh&repo=UniLoadBoard&theme=dracula&hide_border=true&bg_color=0d1117&title_color=bd93f9&icon_color=ff79c6&cache_seconds=86400&v=3" alt="UniLoadBoard"/></a>
 </div>
 
 </td>
@@ -258,7 +271,7 @@ export default arpanjeet;
 <a href="https://github.com/Arpanjeetsingh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="https://www.linkedin.com/in/arpanjeet-s-96895226b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://medium.com/@arpan.sdev"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
-<a href="mailto:arpanjeet135@gmail.com"><img src="https://img.shields.io/badge/Gmail-ff79c6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="mailto:Arpan.sdev@gmail.com"><img src="https://img.shields.io/badge/Gmail-ff79c6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 <br>
