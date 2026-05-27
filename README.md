@@ -1,16 +1,314 @@
-### Hi there 👋
+<div align="center">
+
+<!-- HEADER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:1a1b27,50:bd93f9,75:ff79c6,100:50fa7b&height=240&section=header&text=Arpanjeet%20Singh&fontSize=74&fontColor=f8f8f2&fontAlignY=34&desc=%E2%80%9COnly%20a%20slave%20quantifies%20his%20existence%20with%20productivity.%E2%80%9D&descSize=16&descAlignY=56&descColor=8be9fd&animation=fadeIn" width="100%"/>
+
+<!-- ANIMATED TYPING -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=BD93F9&center=true&vCenter=true&multiline=true&repeat=true&width=780&height=110&lines=Catching+up.+Outrunning.+Iterating+again.;AI+Engineering+%C2%B7+Multi-Agent+%C2%B7+Low-Level+Systems;SJSU+CS+Junior+%E2%80%94+SF+Bay+Area;Everything+goes+stale.+So+do+I.+So+I+rebuild." alt="Typing SVG" /></a>
+
+<!-- BADGES ROW -->
+<p>
+<a href="https://github.com/Arpanjeetsingh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/arpanjeet-s-96895226b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://medium.com/@arpan.sdev"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+<a href="mailto:arpanjeet135@gmail.com"><img src="https://img.shields.io/badge/Email-ff79c6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<img src="https://komarev.com/ghpvc/?username=Arpanjeetsingh&style=for-the-badge&color=50fa7b&label=VISITORS" alt="Profile Views"/>
+</p>
+
+<br>
+
+<!-- CUSTOM DASHBOARD SVG -->
+<img src="dashboard.svg" alt="Arpanjeet's Dev Dashboard" width="100%"/>
+
+</div>
+
+---
+
+## `> whoami`
+
+```yaml
+name: Arpanjeet Singh
+location: San Francisco Bay Area
+education: B.S. Computer Science — San Jose State University (Junior)
+currently_building: Multi-agent systems & whatever the AI race demands next
+philosophy: "Only a slave quantifies his existence with productivity."
+status: Catching up — and trying to outrun the AI race before it laps me again.
+```
+
+```ts
+// arpanjeet.config.ts
+const arpanjeet = {
+  focus:     ["AI Engineering", "Multi-Agent Systems", "Low-Level Curiosity"],
+  languages: ["Python", "Java", "TypeScript", "Go"],
+  daily:     ["React Native", "Jira", "LLMs", "Agents", "Whatever's not deprecated yet"],
+  mood:      "Everything goes stale. So do I. So I rebuild.",
+} as const;
+
+export default arpanjeet;
+```
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/SJSU-B.S._Computer_Science-bd93f9?style=for-the-badge&labelColor=1a1b27" alt="SJSU"/>
+<img src="https://img.shields.io/badge/Year-Junior-ff79c6?style=for-the-badge&labelColor=1a1b27" alt="Year"/>
+<img src="https://img.shields.io/badge/Bay_Area-CA-50fa7b?style=for-the-badge&labelColor=1a1b27" alt="Bay Area"/>
+
+</div>
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Arpanjeetsingh&theme=dracula&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="Trophies" width="100%"/>
+
+<br>
+
+<table>
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=Arpanjeetsingh&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117&title_color=bd93f9&icon_color=ff79c6&text_color=f8f8f2&ring_color=bd93f9&include_all_commits=true&count_private=true&custom_title=Arpanjeet's%20GitHub%20Stats" alt="GitHub Stats" width="100%"/>
+</td>
+<td width="50%">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Arpanjeetsingh&theme=dracula&hide_border=true&background=0d1117&ring=bd93f9&fire=ff79c6&currStreakLabel=50fa7b&sideLabels=f8f8f2&dates=6272a4" alt="GitHub Streak" width="100%"/>
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- CONTRIBUTION GRAPH -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Arpanjeetsingh&bg_color=0d1117&color=bd93f9&line=ff79c6&point=50fa7b&area=true&area_color=bd93f9&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph" width="98%"/>
+
+<br><br>
+
+<!-- LEETCODE STYLE CONTRIBUTION CALENDAR -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/bd93f9/Arpanjeetsingh"/>
+  <img src="https://ghchart.rshah.org/bd93f9/Arpanjeetsingh" alt="Arpanjeet's Contribution Calendar" width="98%"/>
+</picture>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arpanjeetsingh&layout=donut-vertical&theme=dracula&hide_border=true&bg_color=0d1117&title_color=bd93f9&text_color=f8f8f2&langs_count=8" alt="Top Languages" width="320"/>
+
+</div>
+
+---
+
+## Tech Arsenal
+
+<div align="center">
+
+<h4>Languages</h4>
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,typescript,go,javascript,cpp&theme=dark" alt="Languages"/>
+<br>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
+</p>
+
+<h4>AI, Agents & Machine Learning</h4>
+<p>
+<img src="https://img.shields.io/badge/Multi--Agent_Systems-bd93f9?style=for-the-badge&logoColor=white" alt="Multi-Agent"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+<img src="https://img.shields.io/badge/RAG-ff79c6?style=for-the-badge&logoColor=white" alt="RAG"/>
+<img src="https://img.shields.io/badge/LLM_Engineering-50fa7b?style=for-the-badge&logoColor=white" alt="LLM Engineering"/>
+<br>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" alt="ML Frameworks"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
+</p>
+
+<h4>Mobile, Frontend & Backend</h4>
+<p>
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
+<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+<br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind&theme=dark" alt="Frontend"/>
+</p>
+
+<h4>Low-Level & Systems</h4>
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,rust,linux,bash&theme=dark" alt="Systems"/>
+<img src="https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logoColor=white" alt="Assembly"/>
+<img src="https://img.shields.io/badge/OS_Internals-1a1b27?style=for-the-badge&logoColor=white" alt="OS Internals"/>
+</p>
+
+<h4>Data & Infrastructure</h4>
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,supabase&theme=dark" alt="Databases"/>
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+</p>
+
+<h4>Cloud & DevOps</h4>
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,git&theme=dark" alt="Cloud & DevOps"/>
+<br>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+<img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD"/>
+</p>
+
+</div>
+
+---
+
+## Featured Projects
+
+<!-- TODO: Replace placeholders below with your actual projects.
+     Pattern per project:
+       - Update <repo-name> in three places (heading link, "More Projects" link, and the pin image URL)
+       - Edit the tagline (the > blockquote)
+       - Edit the 3-4 bullet highlights
+       - Swap the tech badges to match the stack
+-->
+
+<table>
+<tr>
+<td>
+
+<h3><a href="https://github.com/Arpanjeetsingh">Project One</a> — Tagline goes here</h3>
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+</p>
+
+> **Short context — what it does, what's interesting about it.**
+
+- Bullet one — the *what* and the *why it's hard*
+- Bullet two — the *how* (architecture, key trick, scale number)
+- Bullet three — the *outcome* (metric, result, learning)
+
+<div align="center">
+<a href="https://github.com/Arpanjeetsingh"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Arpanjeetsingh&repo=REPO_NAME&theme=dracula&hide_border=true&bg_color=0d1117&title_color=bd93f9&icon_color=ff79c6" alt="Project One"/></a>
+</div>
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td>
+
+<h3><a href="https://github.com/Arpanjeetsingh">Project Two</a> — Tagline goes here</h3>
+
+<p>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white"/>
+</p>
+
+> **Short context — what it does, what's interesting about it.**
+
+- Bullet one
+- Bullet two
+- Bullet three
+
+<div align="center">
+<a href="https://github.com/Arpanjeetsingh"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Arpanjeetsingh&repo=REPO_NAME&theme=dracula&hide_border=true&bg_color=0d1117&title_color=bd93f9&icon_color=ff79c6" alt="Project Two"/></a>
+</div>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<details>
+<summary><b>More Projects (coming soon)</b></summary>
+<br>
+
+<div align="center">
+
+<a href="https://github.com/Arpanjeetsingh?tab=repositories">
+<img src="https://img.shields.io/badge/See_All_Repos-bd93f9?style=for-the-badge&logo=github&logoColor=white" alt="All Repos"/>
+</a>
+
+</div>
+
+</details>
+
+---
+
+## Contribution Snake
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arpanjeetsingh/Arpanjeetsingh/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arpanjeetsingh/Arpanjeetsingh/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Arpanjeetsingh/Arpanjeetsingh/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
+</div>
+
+> Snake animation requires a GitHub Action — see setup notes at the bottom of this file.
+
+---
+
+<div align="center">
+
+<h3>The work isn't the proof. The doing is.</h3>
+
+<p>
+<a href="https://github.com/Arpanjeetsingh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/arpanjeet-s-96895226b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://medium.com/@arpan.sdev"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+<a href="mailto:arpanjeet135@gmail.com"><img src="https://img.shields.io/badge/Gmail-ff79c6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:1a1b27,50:bd93f9,75:ff79c6,100:50fa7b&height=120&section=footer&animation=twinkling" width="100%"/>
+
+</div>
 
 <!--
-**Arpanjeetsingh/Arpanjeetsingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+=============================================================
+ SETUP NOTES — read once, then delete this comment block.
+=============================================================
 
-Here are some ideas to get you started:
+ 1. REPO NAME
+    This README belongs in a special repo: github.com/Arpanjeetsingh/Arpanjeetsingh
+    The repo name MUST match your username exactly. Create it (public),
+    drop README.md + dashboard.svg at the root, commit, push.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 2. CONTRIBUTION SNAKE
+    The snake SVGs at /output/... don't exist until you add a GitHub Action.
+    Create .github/workflows/snake.yml in the Arpanjeetsingh/Arpanjeetsingh
+    repo with this content:
+
+    name: Generate Snake
+    on:
+      schedule: [{ cron: "0 */24 * * *" }]
+      workflow_dispatch:
+      push: { branches: [main] }
+    jobs:
+      generate:
+        runs-on: ubuntu-latest
+        permissions: { contents: write }
+        steps:
+          - uses: Platane/snk/svg-only@v3
+            with:
+              github_user_name: Arpanjeetsingh
+              outputs: |
+                dist/github-contribution-grid-snake.svg
+                dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          - uses: crazy-max/ghaction-github-pages@v3
+            with:
+              target_branch: output
+              build_dir: dist
+            env:
+              GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+ 3. PROFILE VIEW COUNTER
+    Auto-tracks once the README is live — no setup.
+
+ 4. PROJECTS
+    Two project blocks are pre-stubbed above. Replace REPO_NAME (3 spots
+    per project) and rewrite the tagline + bullets when you're ready.
+============================================================= -->
